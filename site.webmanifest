@@ -1,0 +1,116 @@
+{
+  "id": "/",
+  "name": "Vineet Pratap Singh — Security Researcher",
+  "short_name": "psvim",
+  "description": "Security researcher — pentesting, CTFs, and vulnerability research, with a particular focus on life sciences. B.Pharm student at AKTU Lucknow, security maintainer of DRXStore.",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui",
+    "browser"
+  ],
+  "background_color": "#f4f4f8",
+  "theme_color": "#111110",
+  "categories": [
+    "personalization",
+    "security",
+    "health"
+  ],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Work",
+      "short_name": "Work",
+      "description": "Pentesting, CTFs, and life sciences security research",
+      "url": "/work?source=shortcut",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Skills",
+      "short_name": "Skills",
+      "description": "Languages and tools",
+      "url": "/skills?source=shortcut",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Badges",
+      "short_name": "Badges",
+      "description": "Certifications and TryHackMe badges",
+      "url": "/badges?source=shortcut",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "CTF Blog",
+      "short_name": "CTF Blog",
+      "description": "CTF writeups and security articles",
+      "url": "https://bl.psv.im?source=shortcut",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Reach",
+      "short_name": "Reach",
+      "description": "Contact Vineet Pratap Singh",
+      "url": "/reach?source=shortcut",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
